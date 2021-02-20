@@ -1,6 +1,6 @@
 {
   "name": "simple-concat-files",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Concatenate files CLI",
   "type": "module",
   "exports": "./dist/main.js",
